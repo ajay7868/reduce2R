@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Sashank/Desktop/jar/db2jcc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sashank/Desktop/jar/db2jcc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sashank/Desktop/jar/javax.servlet_3.0.0.v201112011016.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sashank/Desktop/jar/nosqljson.jar"/>
+	<classpathentry kind="lib" path="E:/website/Sashank/Workspaces/jar/db2jcc.jar"/>
+	<classpathentry kind="lib" path="E:/website/Sashank/Workspaces/jar/db2jcc4.jar"/>
+	<classpathentry kind="lib" path="E:/website/Sashank/Workspaces/jar/javax.servlet_3.0.0.v201112011016.jar"/>
+	<classpathentry kind="lib" path="E:/website/Sashank/Workspaces/jar/nosqljson.jar"/>
+	<classpathentry kind="lib" path="E:/downloads/db2jcc.jar"/>
+	<classpathentry kind="lib" path="E:/downloads/db2jcc4.jar"/>
+	<classpathentry kind="lib" path="E:/downloads/javax.servlet_3.0.0.v201112011016.jar"/>
+	<classpathentry kind="lib" path="E:/downloads/nosqljson.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
